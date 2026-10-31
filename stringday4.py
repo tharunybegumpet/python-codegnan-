@@ -31,6 +31,16 @@ print(len(word))
 combined_string=" ".join(word)
 print(combined_string)
 
+#string indexing
+name="tharuny"
+print(name[2])
+
+#string slicing
+s1="python"
+s1=s1[0:6:2]
+print(s1)
+
+
 
 
 
